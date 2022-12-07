@@ -1,0 +1,19 @@
+{
+  "name": "typescrit",
+  "version": "1.0.0",
+  "description": "Typescript version of Pendu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Jeremy Tardini",
+  "license": "ISC",
+  "dependencies": {
+    "tslint": "^6.1.3",
+    "typescript": "^4.9.3"
+  }
+}

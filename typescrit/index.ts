@@ -1,0 +1,1 @@
+let dictionary: String[] = ["Chocolat","Science","Informatique","Musique","Geologie","Gastronomie"];
