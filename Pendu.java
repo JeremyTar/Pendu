@@ -18,12 +18,12 @@ public class Pendu{
     };
 
     public static void main(String[] args) {
-        //Vie
-        int vie = 10;
         //Choix du mot avec la fonction getCaractere();
         char[] word = getCaractere();
         //Wordlength
         int Wordlength = word.length;
+        //Vie
+        int vie = Wordlength + 10;
         //Cache le mot avec des "X"
         char[] userArray = new char[Wordlength];
         for(int i = 0; i < Wordlength; ++i) {
