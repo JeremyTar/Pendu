@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//programme en java
 public class Pendu{
     private static char[] getCractere() {
         final String[] Dictionary = {"Chocolat","Science","Informatique","Musique","Geologie","Gastronomie"};
