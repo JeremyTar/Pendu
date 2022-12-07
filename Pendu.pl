@@ -1,3 +1,4 @@
+#!usr/bin/perl
 my @dictionary = ("Chocolat","Science","Informatique","Musique","Geologie","Gastronomie");
 my $victory = 0;
 my $userSelect
